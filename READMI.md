@@ -1,0 +1,7 @@
+Captura con GET:![image](https://user-images.githubusercontent.com/115411941/223808582-df69d24f-af56-4307-86b0-f49f9f206b85.png)
+Captura del POST:![image](https://user-images.githubusercontent.com/115411941/223808656-4f8c89be-00d3-4a4c-8670-8f0054a85ed4.png)
+Consulta del POST con GET:![image](https://user-images.githubusercontent.com/115411941/223808934-dcb7366d-8ffa-41cb-9a9b-9a368b457dce.png)
+Captura del PUT:![image](https://user-images.githubusercontent.com/115411941/223809322-28b3e598-b035-40c4-9175-890c30831a85.png)
+Consulta del PUT con GET:![image](https://user-images.githubusercontent.com/115411941/223809552-797d04fe-f0eb-4ef9-85fd-62f0ef26555b.png)
+Captura del ELIMINAR![image](https://user-images.githubusercontent.com/115411941/223809840-e7e1335f-8ed3-4159-941c-6b0f14cb47b9.png)
+Consulta del DELETE con GET:![image](https://user-images.githubusercontent.com/115411941/223810001-804f97da-1ec4-4953-b897-e273a5d75ab3.png)
